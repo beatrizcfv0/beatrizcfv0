@@ -10,6 +10,7 @@ I'm a 16 y/o self-taught developer, interested in Web Development | Blockchain
 *   ✉️  You can contact me at [https://twitter.com/beatrizcfv](mailto:https://twitter.com/beatrizcfv)
 *   🧠  I'm learning Frontend Development now. We'll in the future...
 *   ⚡  I know it is not necessary to learn Web Dev for Blockchain, but I just want to
+*   
 <a href="https://www.twitter.com/beatrizcfv" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/beatrizcfv?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
                 /></a><a href="https://www.github.com/beatrizcfv0" target="_blank" rel="noreferrer"><img
@@ -23,11 +24,7 @@ I'm a 16 y/o self-taught developer, interested in Web Development | Blockchain
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
-                    
-
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.github.com/beatrizcfv0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/beatrizcfv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+                   
 
 ### Badges
 
