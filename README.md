@@ -28,11 +28,3 @@ src="https://img.shields.io/github/followers/beatrizcfv0?logo=github&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/beatrizcfv0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bbeacfv_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/beatrizcfv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/beatrizcfv0"><img src="https://github-readme-stats.vercel.app/api?username=beatrizcfv0&show_icons=true&hide=stars,issues,&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="beatrizcfv0's GitHub stats" /></a>
-
-<a href="http://www.github.com/beatrizcfv0"><img src="https://activity-graph.herokuapp.com/graph?username=beatrizcfv0&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
